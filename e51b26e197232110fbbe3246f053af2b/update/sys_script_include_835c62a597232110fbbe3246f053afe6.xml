@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1078385_devopsne.DevOpsScopedScripr</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>DevOpsScopedScripr</name>
+        <script><![CDATA[var DevOpsScopedScripr = Class.create();
+DevOpsScopedScripr.prototype = {
+    initialize: function() {
+    },
+//This is dev Ops DevOpsScopedScripr
+    type: 'DevOpsScopedScripr'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 16:10:15</sys_created_on>
+        <sys_id>835c62a597232110fbbe3246f053afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DevOpsScopedScripr</sys_name>
+        <sys_package display_value="DevOpsNewScope" source="x_1078385_devopsne">e51b26e197232110fbbe3246f053af2b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="DevOpsNewScope">e51b26e197232110fbbe3246f053af2b</sys_scope>
+        <sys_update_name>sys_script_include_835c62a597232110fbbe3246f053afe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 16:10:15</sys_updated_on>
+    </sys_script_include>
+</record_update>
